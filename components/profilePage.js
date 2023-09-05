@@ -26,14 +26,14 @@ export default function ProfilePage(){
             <View style={styles.iconPosition}><FontAwesome5 style={styles.icon} name="user-circle" size={200} color='black' /></View>
             <Text style={styles.name}>Rucha</Text>
             <View>
-  {editing ? (
+  editing ? (
     <TextInput
       value={text}
       onChangeText={setText}
       onSubmitEditing={() => handleSave(text)}
     />
   ) 
-  )}
+  
 
   <Modal visible={showPopup} animationType="slide">
     <View style={styles.popup}>
