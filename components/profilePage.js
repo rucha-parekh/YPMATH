@@ -32,11 +32,7 @@ export default function ProfilePage(){
       onChangeText={setText}
       onSubmitEditing={() => handleSave(text)}
     />
-  ) : (
-    <View>
-      <Button title="Edit" onPress={handleEdit} />
-      <Text>{text}</Text>
-    </View>
+  ) 
   )}
 
   <Modal visible={showPopup} animationType="slide">
