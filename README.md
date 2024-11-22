@@ -48,16 +48,16 @@ For Android:
 1. Home Page: Gives option to log in (for existing users) or sign in <br>
 ![image](https://github.com/user-attachments/assets/113fb4fc-9c2e-4e10-a1c8-e422155201c5)
 
-2. Uploading data
+2. Uploading data <br>
 ![image](https://github.com/user-attachments/assets/211d898e-4d00-4da4-a236-db76e373a1ae)
 
-3. Filters
+3. Filters <br>
 ![image](https://github.com/user-attachments/assets/83089880-cdde-45e4-afd5-aaa623e38ce9)
 
-4. View Answers
+4. View Answers <br>
 ![image](https://github.com/user-attachments/assets/2f684b87-016d-4d5c-bab6-4b6eaafc0ae3)
 
-6. Firebase
+6. Firebase <br>
 ![image](https://github.com/user-attachments/assets/0d139acb-27a1-4664-b0a6-fba474595c63)
 
 
