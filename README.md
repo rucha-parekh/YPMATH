@@ -19,26 +19,22 @@ This is a cross-platform mobile application built using React Native, designed t
 ## Installation
 Clone the repository:
 
-git clone <repository-url>
+    git clone <repository-url>
 
 Navigate to the project directory:
 
-cd <project-folder-name>
+    cd <project-folder-name>
 
 Install dependencies:
 
-npm install
-
-Link Firebase:
-
-    Add your Firebase configuration to firebase.js.
+    npm install
 
 Start the app:
 
-    For iOS:
+For iOS:
 
-npx react-native run-ios
+    npx react-native run-ios
 
 For Android:
 
-npx react-native run-android
+    npx react-native run-android
