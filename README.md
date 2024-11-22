@@ -45,7 +45,7 @@ For Android:
 
 
 ## Output
-1. Home Page: Gives option to log in (for existing users) or sign in
+1. Home Page: Gives option to log in (for existing users) or sign in <br>
 ![image](https://github.com/user-attachments/assets/113fb4fc-9c2e-4e10-a1c8-e422155201c5)
 
 2. Uploading data
