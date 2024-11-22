@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5b76d23-2c1b-492b-8937-d83d3e5d7a90)# YPMATH
+# YPMATH
 ## Introduction
 This is a cross-platform mobile application built using React Native, designed to simplify access to engineering questions and answers. Integrated with a Firebase backend, the app offers real-time database management and seamless user authentication for a user-friendly experience.
 
